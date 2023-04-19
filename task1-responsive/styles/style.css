@@ -46,21 +46,13 @@ body {
     grid-area: main-content;
 }
 
-.extra-content1 {
-    grid-area: extra1;
+.extra-content {
     background-color: rgb(252, 252, 119);
     margin: 1vw;
     padding: 2vw 0;
 }
 
-.extra-content2 {
-    grid-area: extra2;
-    background-color: rgb(252, 252, 119);
-    margin: 1vw;
-    padding: 2vw 0;
-}
-
-.extra-content3 {
+.extra-content-long {
     grid-area: extra3;
     background-color: rgb(252, 252, 119);
     margin: 1vw;
